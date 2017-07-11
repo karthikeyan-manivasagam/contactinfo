@@ -1,0 +1,17 @@
+contactinfoadmin:
+ version: 1.x
+ css:
+  theme:
+   css/contactinfo.admin.css: {}
+ js: 
+  js/contactinfo.admin.js: {}
+ dependencies:
+    - core/jquery
+    - core/jquery.ui
+    - core/drupal    
+    - core/drupalSettings
+contactinfo:
+ version: 1.x
+ css:
+  theme:
+   css/contactinfo.css: {}      

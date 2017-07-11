@@ -1,0 +1,6 @@
+name: 'Contact Info'
+description: 'Collects site-wide contact information and displays it in an hCard block'
+type: module
+core: 8.x
+
+configure: contactinfo.admin

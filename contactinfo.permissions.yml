@@ -1,0 +1,4 @@
+contactinfo administer:
+ title: 'Administer contact information'
+ description: 'Edit contact information for this site.'
+ restrict access: false 

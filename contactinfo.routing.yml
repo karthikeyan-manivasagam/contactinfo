@@ -1,0 +1,7 @@
+contactinfo.admin:
+ path: 'admin/config/system/contactinfo'
+ defaults:
+  _form: '\Drupal\contactinfo\Form\ContactInfoSettingsForm'
+  _title: 'Contact Info Settings'
+ requirements:
+  _permission: 'contactinfo administer'
